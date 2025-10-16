@@ -63,7 +63,7 @@ If it is written by hand and there is an error, the configuration file will be r
 | Euskera | 83.01% |
 | Français | 89.54% |
 | Italiano | 99.35% |
-| Lietuvių | 88.89% |
+| Lietuvių | 98.69% |
 | Norsk | 88.89% |
 | Polski | 82.35% |
 | Română | 54.9% |
