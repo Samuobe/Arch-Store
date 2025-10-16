@@ -134,3 +134,18 @@ last modified|Paskutinį kartą redaguota
 popularity|Populiarumas
 votes|Balsai
 outdated|Senesnis
+Update ArchStore|Atnaujinkite ArchStore
+Select a version|Pasirinkite versiją
+Do you want to install the stable version?|Ar norite įdiegti stabilią versiją
+Do you want to open GitHub?|Ar norite atverti GitHub
+It appears that you installed ArchStore from the script. Would you like to open GitHub to rerun the script?|Atrodo, kad įdiegėte ArchStore per komandą. Ar norite atidaryti GitHub, kad atnaujintumėte komandą?
+Installated with|Įdiegta su
+updated, please restart|Atnaujinta, perkraukite ArchStore
+updated|Atnaujinta
+Home|Pagrindinis puslapis
+Search by type|Ieškok pagal tipą
+TOP 100 downloaded packages|TOP 100 parsisiustų programų
+Games|Žaidimai
+Office|Ofisas
+Graphics|Grafikos
+Multimedia|Multimedija
